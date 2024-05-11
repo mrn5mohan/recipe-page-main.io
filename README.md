@@ -1,1 +1,1 @@
-![alt text](Screenshot_11-5-2024_15910_127.0.0.1.jpeg)
+![alt text](design/Screenshot_11-5-2024_15910_127.0.0.1.jpeg)
